@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-<!--
-**javarishi/javarishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <div id="header" align="center">
 
 <iframe src="https://giphy.com/embed/hqU2KkjW5bE2v2Z7Q2" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/code-creating-rockd-hqU2KkjW5bE2v2Z7Q2">via GIPHY</a></p>
 
 </div>
+
+<!--
+**javarishi/javarishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
